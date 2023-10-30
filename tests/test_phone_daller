@@ -1,0 +1,4 @@
+import PhoneDaller
+
+def test_PhoneDaller:
+    assert(PhoneDaller is not None)
